@@ -19,3 +19,6 @@ Current subjective forecasting methods for retail have little data to back them 
 - Potential Impact
 
 If successful, you'll have flexed some new skills in a real world example. For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction. The results of this ongoing competition, over time, might even ensure your local store has exactly what you need the next time you shop.
+
+
+https://www.kaggle.com/c/store-sales-time-series-forecasting/overview
